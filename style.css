@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #FFEDD5;
+}
+
+ul {
+  list-style: none;
+}
+
+header {
+  max-width: 300px;
+  margin: 0 auto;
+}
