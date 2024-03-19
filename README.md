@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Busca Git</h1>
+  <h1>RocketCoffee</h1>
   <p>Uma landing page de menu de uma cafeteria.</p>
   <img src="./design/desktop.png" alt="Logo" width="800">
 </div>
