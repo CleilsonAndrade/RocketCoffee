@@ -1,12 +1,13 @@
 <div align="center">
   <h1>RocketCoffee</h1>
-  <p>Uma landing page de menu de uma cafeteria.</p>
+  <p>Uma landing page de menu de uma cafeteria, visando estudos sobre CSS.</p>
   <img src="./design/desktop.png" alt="Logo" width="800">
 </div>
 
 # 📒 Índice
 * [Descrição](#descrição)
 * [Requisitos Funcionais](#requisitos)
+  * [Features](#features)
 * [Tecnologias](#tecnologias)
 * [Design](#design)
   * [Cores](#cores)
@@ -15,7 +16,7 @@
 * [Licença](#licença)
 
 # 📃 <span id="descrição">Descrição</span>
-Uma landing page de menu de uma cafeteria.
+Uma landing page de menu de uma cafeteria, visando estudos sobre CSS.
 
 # 📌 <span id="requisitos">Requisitos Funcionais</span>
 - [x] Responsividade<br>
