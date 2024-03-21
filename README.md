@@ -40,7 +40,7 @@ Uma landing page de menu de uma cafeteria, visando estudos sobre CSS.
 # 🚀 <span id="instalação">Instalação</span>
 ```bash
   # Clone este repositório:
-  $ git clone https://github.com/CleilsonAndrade/RocketCoffee
+  $ git clone https://github.com/CleilsonAndrade/RocketCoffee.git
   $ cd ./RocketCoffee
 ```
 
